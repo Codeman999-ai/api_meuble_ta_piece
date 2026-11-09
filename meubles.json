@@ -1,0 +1,87 @@
+{
+    "projectName": "Meuble ta pièce",
+    "items": [
+        {
+            "id": "vase",
+            "name": "vase",
+            "category": "decoration",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/013/634/643/non_2x/vase-icon-style-free-vector.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "lamp",
+            "name": "lampe",
+            "category": "decoration",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/075/174/638/non_2x/illustration-lamp-icon-vector.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "plant",
+            "name": "plante",
+            "category": "decoration",
+            "wallMounted": false,
+            "iconUrl": "https://img.freepik.com/premium-vector/plant-vector-icon-design-illustration_1174953-4532.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "mirror",
+            "name": "miroir",
+            "category": "decoration",
+            "wallMounted": true,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/026/627/123/original/mirror-icon-symbol-design-illustration-vector.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "picture_frame",
+            "name": "cadre photo",
+            "category": "decoration",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/051/837/360/large_2x/picture-frame-icon-design-free-vector.jpg",
+            "defaultScale": 1.0
+        },
+
+        {
+            "id": "rug",
+            "name": "tapis",
+            "category": "textile",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/014/734/087/non_2x/rug-icon-free-vector.jpg",
+            "defaultScale": 1.0
+        },
+
+        {
+            "id": "chair",
+            "name": "chaise",
+            "category": "meuble",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/023/526/153/original/chair-icon-on-trendy-design-free-vector.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "table",
+            "name": "table",
+            "category": "meuble",
+            "wallMounted": false,
+            "iconUrl": "https://i.pinimg.com/736x/8a/0a/87/8a0a87683d83a64a8869f6cbfc6119a1.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "sofa",
+            "name": "canape",
+            "category": "meuble",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/051/781/235/non_2x/a-black-sofa-icon-on-a-white-background-vector.jpg",
+            "defaultScale": 1.0
+        },
+        {
+            "id": "pedestal_table",
+            "name": "gueridon",
+            "category": "meuble",
+            "wallMounted": false,
+            "iconUrl": "https://static.vecteezy.com/system/resources/previews/077/748/531/large_2x/pedestal-table-stool-furniture-icon-graphic-design-element-vector.jpg",
+            "defaultScale": 1.0
+        }
+    ]
+}
